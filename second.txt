@@ -1,1 +1,4 @@
-this is the second commit exercise, am I success?
+推送
+git add xxx.txt
+git commit -m "what you say"
+git push origin master
