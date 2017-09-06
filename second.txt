@@ -2,3 +2,8 @@
 git add xxx.txt
 git commit -m "what you say"
 git push origin master
+
+cd learngit
+cd ..
+
+ls		浏览
