@@ -7,3 +7,6 @@ cd learngit
 cd ..
 
 ls		浏览
+
+git rm --cached [file name]	文件夹
+git rm [file name.type]	
